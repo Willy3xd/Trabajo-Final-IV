@@ -1,0 +1,196 @@
+body{
+    background-color: floralwhite;
+}
+.a{
+    display: flex;
+    justify-content: center;
+    font-family: 'Caveat', cursive;
+}
+.c{
+    position:relative;
+    top:0px;
+    font-family: 'Anton', sans-serif;
+ }
+ .luffy{
+    top:0px;
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .luf{
+    position: relative;
+    left:1250px;
+    bottom:400px;
+    border: 2px solid black;
+ }
+ .zor{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    border: 2px solid black;
+ }
+ .zoro{
+ 
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .d{
+    position:relative;
+    font-family: 'Anton', sans-serif;
+ }
+
+ .san{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+  
+    border: 2px solid black;
+ }
+ .sanji{
+  
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .e{
+    position:relative;
+   
+    font-family: 'Anton', sans-serif;
+ }
+ .nam{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    
+    border: 2px solid black;
+ }
+ .nami{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .f{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+ .uso{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    
+    border: 2px solid black;
+ }
+ .usopp{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .g{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+ .rob{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+   
+    border: 2px solid black;
+ }
+ .robin{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .h{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+ .cho{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    
+    border: 2px solid black;
+ }
+ .chopper{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .i{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+ .fran{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+   
+    border: 2px solid black;
+ }
+ .franky{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .j{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+ .bro{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    
+    border: 2px solid black;
+ }
+ .brook{
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .k{
+    position:relative;
+
+    font-family: 'Anton', sans-serif;
+ }
+ .jin{
+    position: relative;
+    bottom:400px;
+    left:1250px;
+    
+    border: 2px solid black;
+ }
+ .jinbe{
+    
+    position:relative;
+    height:350px;
+    width:1000px;
+    font-family: 'Comic Neue', cursive;
+ }
+ .l{
+    position:relative;
+    
+    font-family: 'Anton', sans-serif;
+ }
+
